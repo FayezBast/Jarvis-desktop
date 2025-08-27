@@ -1,0 +1,2498 @@
+{
+  "addprinter": {
+    "alternatives": [],
+    "bundle_id": "com.apple.print.add",
+    "category": "System",
+    "display_name": "Add Printer",
+    "executable": "AddPrinter",
+    "name": "AddPrinter",
+    "path": "/System/Library/CoreServices/AddPrinter.app",
+    "version": "607"
+  },
+  "addressbookurlforwarder": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AddressBook.UrlForwarder",
+    "category": "System",
+    "display_name": "AddressBookUrlForwarder",
+    "executable": "AddressBookUrlForwarder",
+    "name": "AddressBookUrlForwarder",
+    "path": "/System/Library/CoreServices/AddressBookUrlForwarder.app",
+    "version": "14.0"
+  },
+  "airplayuiagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AirPlayUIAgent",
+    "category": "System",
+    "display_name": "AirPlay Screen Mirroring",
+    "executable": "AirPlayUIAgent",
+    "name": "AirPlayUIAgent",
+    "path": "/System/Library/CoreServices/AirPlayUIAgent.app",
+    "version": "2.0"
+  },
+  "airport": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AirPortBaseStationAgent",
+    "category": "System",
+    "display_name": "AirPort Base Station Agent",
+    "executable": "AirPort Base Station Agent",
+    "name": "AirPort Base Station Agent",
+    "path": "/System/Library/CoreServices/AirPort Base Station Agent.app",
+    "version": "2.2.1"
+  },
+  "airport base station agent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AirPortBaseStationAgent",
+    "category": "System",
+    "display_name": "AirPort Base Station Agent",
+    "executable": "AirPort Base Station Agent",
+    "name": "AirPort Base Station Agent",
+    "path": "/System/Library/CoreServices/AirPort Base Station Agent.app",
+    "version": "2.2.1"
+  },
+  "airportbasestationagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AirPortBaseStationAgent",
+    "category": "System",
+    "display_name": "AirPort Base Station Agent",
+    "executable": "AirPort Base Station Agent",
+    "name": "AirPort Base Station Agent",
+    "path": "/System/Library/CoreServices/AirPort Base Station Agent.app",
+    "version": "2.2.1"
+  },
+  "aosuiprefpanelauncher": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AOSUIPrefPaneLauncher",
+    "category": "System",
+    "display_name": "AOSUIPrefPaneLauncher",
+    "executable": "AOSUIPrefPaneLauncher",
+    "name": "AOSUIPrefPaneLauncher",
+    "path": "/System/Library/CoreServices/AOSUIPrefPaneLauncher.app",
+    "version": "1.0"
+  },
+  "app": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AppStore",
+    "category": "System",
+    "display_name": "App Store",
+    "executable": "App Store",
+    "name": "App Store",
+    "path": "/System/Applications/App Store.app",
+    "version": "3.0"
+  },
+  "app store": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AppStore",
+    "category": "System",
+    "display_name": "App Store",
+    "executable": "App Store",
+    "name": "App Store",
+    "path": "/System/Applications/App Store.app",
+    "version": "3.0"
+  },
+  "apple": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DiagnosticsModeAssistant",
+    "category": "System",
+    "display_name": "Apple Diagnostics",
+    "executable": "Apple Diagnostics",
+    "name": "Apple Diagnostics",
+    "path": "/System/Library/CoreServices/Apple Diagnostics.app",
+    "version": "1.0"
+  },
+  "apple diagnostics": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DiagnosticsModeAssistant",
+    "category": "System",
+    "display_name": "Apple Diagnostics",
+    "executable": "Apple Diagnostics",
+    "name": "Apple Diagnostics",
+    "path": "/System/Library/CoreServices/Apple Diagnostics.app",
+    "version": "1.0"
+  },
+  "applediagnostics": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DiagnosticsModeAssistant",
+    "category": "System",
+    "display_name": "Apple Diagnostics",
+    "executable": "Apple Diagnostics",
+    "name": "Apple Diagnostics",
+    "path": "/System/Library/CoreServices/Apple Diagnostics.app",
+    "version": "1.0"
+  },
+  "applescript": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AppleScriptUtility",
+    "category": "System",
+    "display_name": "AppleScript Utility",
+    "executable": "AppleScript Utility",
+    "name": "AppleScript Utility",
+    "path": "/System/Library/CoreServices/AppleScript Utility.app",
+    "version": "1.1.2"
+  },
+  "applescript utility": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AppleScriptUtility",
+    "category": "System",
+    "display_name": "AppleScript Utility",
+    "executable": "AppleScript Utility",
+    "name": "AppleScript Utility",
+    "path": "/System/Library/CoreServices/AppleScript Utility.app",
+    "version": "1.1.2"
+  },
+  "applescriptutility": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AppleScriptUtility",
+    "category": "System",
+    "display_name": "AppleScript Utility",
+    "executable": "AppleScript Utility",
+    "name": "AppleScript Utility",
+    "path": "/System/Library/CoreServices/AppleScript Utility.app",
+    "version": "1.1.2"
+  },
+  "appstore": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AppStore",
+    "category": "System",
+    "display_name": "App Store",
+    "executable": "App Store",
+    "name": "App Store",
+    "path": "/System/Applications/App Store.app",
+    "version": "3.0"
+  },
+  "asktomessageshost": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AskToMessagesHost",
+    "category": "System",
+    "display_name": "AskToMessagesHost",
+    "executable": "AskToMessagesHost",
+    "name": "AskToMessagesHost",
+    "path": "/System/Library/CoreServices/AskToMessagesHost.app",
+    "version": "1.0"
+  },
+  "automator": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Automator.Automator-Application-Stub",
+    "category": "System",
+    "display_name": "Automator Application Stub",
+    "executable": "Automator Application Stub",
+    "name": "Automator Application Stub",
+    "path": "/System/Library/CoreServices/Automator Application Stub.app",
+    "version": "1.3"
+  },
+  "automator application stub": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Automator.Automator-Application-Stub",
+    "category": "System",
+    "display_name": "Automator Application Stub",
+    "executable": "Automator Application Stub",
+    "name": "Automator Application Stub",
+    "path": "/System/Library/CoreServices/Automator Application Stub.app",
+    "version": "1.3"
+  },
+  "automator installer": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AutomatorInstaller",
+    "category": "System",
+    "display_name": "Automator Installer",
+    "executable": "Automator Installer",
+    "name": "Automator Installer",
+    "path": "/System/Library/CoreServices/Automator Installer.app",
+    "version": "2.10"
+  },
+  "automatorapplicationstub": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Automator.Automator-Application-Stub",
+    "category": "System",
+    "display_name": "Automator Application Stub",
+    "executable": "Automator Application Stub",
+    "name": "Automator Application Stub",
+    "path": "/System/Library/CoreServices/Automator Application Stub.app",
+    "version": "1.3"
+  },
+  "automatorinstaller": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AutomatorInstaller",
+    "category": "System",
+    "display_name": "Automator Installer",
+    "executable": "Automator Installer",
+    "name": "Automator Installer",
+    "path": "/System/Library/CoreServices/Automator Installer.app",
+    "version": "2.10"
+  },
+  "avb": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AVB-Audio-Configuration",
+    "category": "System",
+    "display_name": "AVB Configuration",
+    "executable": "AVB Configuration",
+    "name": "AVB Configuration",
+    "path": "/System/Library/CoreServices/AVB Configuration.app",
+    "version": "1320.3"
+  },
+  "avb configuration": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AVB-Audio-Configuration",
+    "category": "System",
+    "display_name": "AVB Configuration",
+    "executable": "AVB Configuration",
+    "name": "AVB Configuration",
+    "path": "/System/Library/CoreServices/AVB Configuration.app",
+    "version": "1320.3"
+  },
+  "avbconfiguration": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AVB-Audio-Configuration",
+    "category": "System",
+    "display_name": "AVB Configuration",
+    "executable": "AVB Configuration",
+    "name": "AVB Configuration",
+    "path": "/System/Library/CoreServices/AVB Configuration.app",
+    "version": "1320.3"
+  },
+  "batteries": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Batteries",
+    "category": "System",
+    "display_name": "Batteries",
+    "executable": "Batteries",
+    "name": "Batteries",
+    "path": "/System/Library/CoreServices/Batteries.app",
+    "version": "1.0"
+  },
+  "bluetoothsetupassistant": {
+    "alternatives": [],
+    "bundle_id": "com.apple.BluetoothSetupAssistant",
+    "category": "System",
+    "display_name": "BluetoothSetupAssistant",
+    "executable": "BluetoothSetupAssistant",
+    "name": "BluetoothSetupAssistant",
+    "path": "/System/Library/CoreServices/BluetoothSetupAssistant.app",
+    "version": "9.0"
+  },
+  "bluetoothuiserver": {
+    "alternatives": [],
+    "bundle_id": "com.apple.BluetoothUIServer",
+    "category": "System",
+    "display_name": "BluetoothUIServer",
+    "executable": "BluetoothUIServer",
+    "name": "BluetoothUIServer",
+    "path": "/System/Library/CoreServices/BluetoothUIServer.app",
+    "version": "9.0"
+  },
+  "bluetoothuiservice": {
+    "alternatives": [],
+    "bundle_id": "com.apple.BluetoothUIService",
+    "category": "System",
+    "display_name": "BluetoothUIService",
+    "executable": "BluetoothUIService",
+    "name": "BluetoothUIService",
+    "path": "/System/Library/CoreServices/BluetoothUIService.app",
+    "version": "1.0"
+  },
+  "books": {
+    "alternatives": [],
+    "bundle_id": "com.apple.iBooksX",
+    "category": "System",
+    "display_name": "Books",
+    "executable": "Books",
+    "name": "Books",
+    "path": "/System/Applications/Books.app",
+    "version": "7.5"
+  },
+  "calculator": {
+    "alternatives": [],
+    "bundle_id": "com.apple.calculator",
+    "category": "System",
+    "display_name": "Calculator",
+    "executable": "Calculator",
+    "name": "Calculator",
+    "path": "/System/Applications/Calculator.app",
+    "version": "11.0"
+  },
+  "calendar": {
+    "alternatives": [],
+    "bundle_id": "com.apple.iCal",
+    "category": "System",
+    "display_name": "Calendar",
+    "executable": "Calendar",
+    "name": "Calendar",
+    "path": "/System/Applications/Calendar.app",
+    "version": "15.0"
+  },
+  "calendarfilehandler": {
+    "alternatives": [],
+    "bundle_id": "com.apple.CalendarFileHandler",
+    "category": "System",
+    "display_name": "Calendar / Reminders",
+    "executable": "CalendarFileHandler",
+    "name": "CalendarFileHandler",
+    "path": "/System/Library/CoreServices/CalendarFileHandler.app",
+    "version": "8.0"
+  },
+  "captive": {
+    "alternatives": [],
+    "bundle_id": "com.apple.CaptiveNetworkAssistant",
+    "category": "System",
+    "display_name": "Captive Network Assistant",
+    "executable": "Captive Network Assistant",
+    "name": "Captive Network Assistant",
+    "path": "/System/Library/CoreServices/Captive Network Assistant.app",
+    "version": "5.0"
+  },
+  "captive network assistant": {
+    "alternatives": [],
+    "bundle_id": "com.apple.CaptiveNetworkAssistant",
+    "category": "System",
+    "display_name": "Captive Network Assistant",
+    "executable": "Captive Network Assistant",
+    "name": "Captive Network Assistant",
+    "path": "/System/Library/CoreServices/Captive Network Assistant.app",
+    "version": "5.0"
+  },
+  "captivenetworkassistant": {
+    "alternatives": [],
+    "bundle_id": "com.apple.CaptiveNetworkAssistant",
+    "category": "System",
+    "display_name": "Captive Network Assistant",
+    "executable": "Captive Network Assistant",
+    "name": "Captive Network Assistant",
+    "path": "/System/Library/CoreServices/Captive Network Assistant.app",
+    "version": "5.0"
+  },
+  "certificate": {
+    "alternatives": [],
+    "bundle_id": "com.apple.CertificateAssistant",
+    "category": "System",
+    "display_name": "Certificate Assistant",
+    "executable": "Certificate Assistant",
+    "name": "Certificate Assistant",
+    "path": "/System/Library/CoreServices/Certificate Assistant.app",
+    "version": "5.0"
+  },
+  "certificate assistant": {
+    "alternatives": [],
+    "bundle_id": "com.apple.CertificateAssistant",
+    "category": "System",
+    "display_name": "Certificate Assistant",
+    "executable": "Certificate Assistant",
+    "name": "Certificate Assistant",
+    "path": "/System/Library/CoreServices/Certificate Assistant.app",
+    "version": "5.0"
+  },
+  "certificateassistant": {
+    "alternatives": [],
+    "bundle_id": "com.apple.CertificateAssistant",
+    "category": "System",
+    "display_name": "Certificate Assistant",
+    "executable": "Certificate Assistant",
+    "name": "Certificate Assistant",
+    "path": "/System/Library/CoreServices/Certificate Assistant.app",
+    "version": "5.0"
+  },
+  "chess": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Chess",
+    "category": "System",
+    "display_name": "Chess",
+    "executable": "Chess",
+    "name": "Chess",
+    "path": "/System/Applications/Chess.app",
+    "version": "3.18"
+  },
+  "clock": {
+    "alternatives": [],
+    "bundle_id": "com.apple.clock",
+    "category": "System",
+    "display_name": "Clock",
+    "executable": "Clock",
+    "name": "Clock",
+    "path": "/System/Applications/Clock.app",
+    "version": "1.1"
+  },
+  "code": {
+    "alternatives": [],
+    "bundle_id": "com.microsoft.VSCode",
+    "category": "Development",
+    "display_name": "Code",
+    "executable": "Electron",
+    "name": "Visual Studio Code",
+    "path": "/Applications/Visual Studio Code.app",
+    "version": "1.103.2"
+  },
+  "contacts": {
+    "alternatives": [],
+    "bundle_id": "com.apple.AddressBook",
+    "category": "System",
+    "display_name": "Contacts",
+    "executable": "Contacts",
+    "name": "Contacts",
+    "path": "/System/Applications/Contacts.app",
+    "version": "14.0"
+  },
+  "controlcenter": {
+    "alternatives": [],
+    "bundle_id": "com.apple.controlcenter",
+    "category": "System",
+    "display_name": "ControlCenter",
+    "executable": "ControlCenter",
+    "name": "ControlCenter",
+    "path": "/System/Library/CoreServices/ControlCenter.app",
+    "version": "1.0"
+  },
+  "controlstrip": {
+    "alternatives": [],
+    "bundle_id": "com.apple.controlstrip",
+    "category": "System",
+    "display_name": "Control Strip",
+    "executable": "ControlStrip",
+    "name": "ControlStrip",
+    "path": "/System/Library/CoreServices/ControlStrip.app",
+    "version": "1.0"
+  },
+  "corelocationagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.CoreLocationAgent",
+    "category": "System",
+    "display_name": "CoreLocationAgent",
+    "executable": "CoreLocationAgent",
+    "name": "CoreLocationAgent",
+    "path": "/System/Library/CoreServices/CoreLocationAgent.app",
+    "version": "2964.0.4"
+  },
+  "coreservicesuiagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.coreservices.uiagent",
+    "category": "System",
+    "display_name": "CoreServicesUIAgent",
+    "executable": "CoreServicesUIAgent",
+    "name": "CoreServicesUIAgent",
+    "path": "/System/Library/CoreServices/CoreServicesUIAgent.app",
+    "version": "369"
+  },
+  "coverage": {
+    "alternatives": [],
+    "bundle_id": "com.apple.NewDeviceOutreachApp",
+    "category": "System",
+    "display_name": "Coverage Details",
+    "executable": "Coverage Details",
+    "name": "Coverage Details",
+    "path": "/System/Library/CoreServices/Coverage Details.app",
+    "version": "1.0"
+  },
+  "coverage details": {
+    "alternatives": [],
+    "bundle_id": "com.apple.NewDeviceOutreachApp",
+    "category": "System",
+    "display_name": "Coverage Details",
+    "executable": "Coverage Details",
+    "name": "Coverage Details",
+    "path": "/System/Library/CoreServices/Coverage Details.app",
+    "version": "1.0"
+  },
+  "coveragedetails": {
+    "alternatives": [],
+    "bundle_id": "com.apple.NewDeviceOutreachApp",
+    "category": "System",
+    "display_name": "Coverage Details",
+    "executable": "Coverage Details",
+    "name": "Coverage Details",
+    "path": "/System/Library/CoreServices/Coverage Details.app",
+    "version": "1.0"
+  },
+  "database": {
+    "alternatives": [],
+    "bundle_id": "com.apple.databaseevents",
+    "category": "System",
+    "display_name": "Database Events",
+    "executable": "Database Events",
+    "name": "Database Events",
+    "path": "/System/Library/CoreServices/Database Events.app",
+    "version": "1.0.6"
+  },
+  "database events": {
+    "alternatives": [],
+    "bundle_id": "com.apple.databaseevents",
+    "category": "System",
+    "display_name": "Database Events",
+    "executable": "Database Events",
+    "name": "Database Events",
+    "path": "/System/Library/CoreServices/Database Events.app",
+    "version": "1.0.6"
+  },
+  "databaseevents": {
+    "alternatives": [],
+    "bundle_id": "com.apple.databaseevents",
+    "category": "System",
+    "display_name": "Database Events",
+    "executable": "Database Events",
+    "name": "Database Events",
+    "path": "/System/Library/CoreServices/Database Events.app",
+    "version": "1.0.6"
+  },
+  "diagnostics": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DiagnosticsReporter",
+    "category": "System",
+    "display_name": "Diagnostics Reporter",
+    "executable": "Diagnostics Reporter",
+    "name": "Diagnostics Reporter",
+    "path": "/System/Library/CoreServices/Diagnostics Reporter.app",
+    "version": "1.0"
+  },
+  "diagnostics reporter": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DiagnosticsReporter",
+    "category": "System",
+    "display_name": "Diagnostics Reporter",
+    "executable": "Diagnostics Reporter",
+    "name": "Diagnostics Reporter",
+    "path": "/System/Library/CoreServices/Diagnostics Reporter.app",
+    "version": "1.0"
+  },
+  "diagnosticsreporter": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DiagnosticsReporter",
+    "category": "System",
+    "display_name": "Diagnostics Reporter",
+    "executable": "Diagnostics Reporter",
+    "name": "Diagnostics Reporter",
+    "path": "/System/Library/CoreServices/Diagnostics Reporter.app",
+    "version": "1.0"
+  },
+  "dictionary": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Dictionary",
+    "category": "System",
+    "display_name": "Dictionary",
+    "executable": "Dictionary",
+    "name": "Dictionary",
+    "path": "/System/Applications/Dictionary.app",
+    "version": "2.3.0"
+  },
+  "dischelper": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DiscHelper",
+    "category": "System",
+    "display_name": "DiscHelper",
+    "executable": "DiscHelper",
+    "name": "DiscHelper",
+    "path": "/System/Library/CoreServices/DiscHelper.app",
+    "version": "1.0"
+  },
+  "diskimagemounter": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DiskImageMounter",
+    "category": "System",
+    "display_name": "DiskImageMounter",
+    "executable": "DiskImageMounter",
+    "name": "DiskImageMounter",
+    "path": "/System/Library/CoreServices/DiskImageMounter.app",
+    "version": "1.0"
+  },
+  "dock": {
+    "alternatives": [
+      "dock"
+    ],
+    "bundle_id": null,
+    "category": "System",
+    "display_name": "Dock",
+    "executable": null,
+    "name": "Dock",
+    "path": "/System/Library/CoreServices/Dock.app",
+    "version": null
+  },
+  "dwell": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DwellControl",
+    "category": "System",
+    "display_name": "Dwell Control",
+    "executable": "Dwell Control",
+    "name": "Dwell Control",
+    "path": "/System/Library/CoreServices/Dwell Control.app",
+    "version": "1.0"
+  },
+  "dwell control": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DwellControl",
+    "category": "System",
+    "display_name": "Dwell Control",
+    "executable": "Dwell Control",
+    "name": "Dwell Control",
+    "path": "/System/Library/CoreServices/Dwell Control.app",
+    "version": "1.0"
+  },
+  "dwellcontrol": {
+    "alternatives": [],
+    "bundle_id": "com.apple.DwellControl",
+    "category": "System",
+    "display_name": "Dwell Control",
+    "executable": "Dwell Control",
+    "name": "Dwell Control",
+    "path": "/System/Library/CoreServices/Dwell Control.app",
+    "version": "1.0"
+  },
+  "enhanced": {
+    "alternatives": [],
+    "bundle_id": "com.apple.EnhancedLogging",
+    "category": "System",
+    "display_name": "Enhanced Logging",
+    "executable": "Enhanced Logging",
+    "name": "Enhanced Logging",
+    "path": "/System/Library/CoreServices/Enhanced Logging.app",
+    "version": "1.0"
+  },
+  "enhanced logging": {
+    "alternatives": [],
+    "bundle_id": "com.apple.EnhancedLogging",
+    "category": "System",
+    "display_name": "Enhanced Logging",
+    "executable": "Enhanced Logging",
+    "name": "Enhanced Logging",
+    "path": "/System/Library/CoreServices/Enhanced Logging.app",
+    "version": "1.0"
+  },
+  "enhancedlogging": {
+    "alternatives": [],
+    "bundle_id": "com.apple.EnhancedLogging",
+    "category": "System",
+    "display_name": "Enhanced Logging",
+    "executable": "Enhanced Logging",
+    "name": "Enhanced Logging",
+    "path": "/System/Library/CoreServices/Enhanced Logging.app",
+    "version": "1.0"
+  },
+  "erase": {
+    "alternatives": [],
+    "bundle_id": "com.apple.EraseAssistant",
+    "category": "System",
+    "display_name": "Erase Assistant",
+    "executable": "Erase Assistant",
+    "name": "Erase Assistant",
+    "path": "/System/Library/CoreServices/Erase Assistant.app",
+    "version": "1.0"
+  },
+  "erase assistant": {
+    "alternatives": [],
+    "bundle_id": "com.apple.EraseAssistant",
+    "category": "System",
+    "display_name": "Erase Assistant",
+    "executable": "Erase Assistant",
+    "name": "Erase Assistant",
+    "path": "/System/Library/CoreServices/Erase Assistant.app",
+    "version": "1.0"
+  },
+  "eraseassistant": {
+    "alternatives": [],
+    "bundle_id": "com.apple.EraseAssistant",
+    "category": "System",
+    "display_name": "Erase Assistant",
+    "executable": "Erase Assistant",
+    "name": "Erase Assistant",
+    "path": "/System/Library/CoreServices/Erase Assistant.app",
+    "version": "1.0"
+  },
+  "escrowsecurityalert": {
+    "alternatives": [],
+    "bundle_id": "com.apple.EscrowSecurityAlert",
+    "category": "System",
+    "display_name": "EscrowSecurityAlert",
+    "executable": "EscrowSecurityAlert",
+    "name": "EscrowSecurityAlert",
+    "path": "/System/Library/CoreServices/EscrowSecurityAlert.app",
+    "version": "1.0"
+  },
+  "facetime": {
+    "alternatives": [],
+    "bundle_id": "com.apple.FaceTime",
+    "category": "System",
+    "display_name": "FaceTime",
+    "executable": "FaceTime",
+    "name": "FaceTime",
+    "path": "/System/Applications/FaceTime.app",
+    "version": "36"
+  },
+  "family": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Family",
+    "category": "System",
+    "display_name": "Family",
+    "executable": "Family",
+    "name": "Family",
+    "path": "/System/Library/CoreServices/Family.app",
+    "version": "1.0"
+  },
+  "fileprovider-feedback": {
+    "alternatives": [],
+    "bundle_id": "com.apple.FileProvider-Feedback",
+    "category": "System",
+    "display_name": "FileProvider-Feedback",
+    "executable": "FileProvider-Feedback",
+    "name": "FileProvider-Feedback",
+    "path": "/System/Library/CoreServices/FileProvider-Feedback.app",
+    "version": "1.0"
+  },
+  "finder": {
+    "alternatives": [
+      "finder"
+    ],
+    "bundle_id": null,
+    "category": "System",
+    "display_name": "Finder",
+    "executable": null,
+    "name": "Finder",
+    "path": "/System/Library/CoreServices/Finder.app",
+    "version": null
+  },
+  "findmy": {
+    "alternatives": [],
+    "bundle_id": "com.apple.findmy",
+    "category": "System",
+    "display_name": "FindMy",
+    "executable": "FindMy",
+    "name": "FindMy",
+    "path": "/System/Applications/FindMy.app",
+    "version": "4.0"
+  },
+  "folderactionsdispatcher": {
+    "alternatives": [],
+    "bundle_id": "com.apple.FolderActionsDispatcher",
+    "category": "System",
+    "display_name": "FolderActionsDispatcher",
+    "executable": "FolderActionsDispatcher",
+    "name": "FolderActionsDispatcher",
+    "path": "/System/Library/CoreServices/FolderActionsDispatcher.app",
+    "version": "1.0"
+  },
+  "font": {
+    "alternatives": [],
+    "bundle_id": "com.apple.FontBook",
+    "category": "System",
+    "display_name": "Font Book",
+    "executable": "Font Book",
+    "name": "Font Book",
+    "path": "/System/Applications/Font Book.app",
+    "version": "11.0"
+  },
+  "font book": {
+    "alternatives": [],
+    "bundle_id": "com.apple.FontBook",
+    "category": "System",
+    "display_name": "Font Book",
+    "executable": "Font Book",
+    "name": "Font Book",
+    "path": "/System/Applications/Font Book.app",
+    "version": "11.0"
+  },
+  "fontbook": {
+    "alternatives": [],
+    "bundle_id": "com.apple.FontBook",
+    "category": "System",
+    "display_name": "Font Book",
+    "executable": "Font Book",
+    "name": "Font Book",
+    "path": "/System/Applications/Font Book.app",
+    "version": "11.0"
+  },
+  "freeform": {
+    "alternatives": [],
+    "bundle_id": "com.apple.freeform",
+    "category": "System",
+    "display_name": "Freeform",
+    "executable": "Freeform",
+    "name": "Freeform",
+    "path": "/System/Applications/Freeform.app",
+    "version": "3.5"
+  },
+  "game": {
+    "alternatives": [],
+    "bundle_id": "com.apple.gamecenter",
+    "category": "System",
+    "display_name": "Game Center",
+    "executable": "Game Center",
+    "name": "Game Center",
+    "path": "/System/Library/CoreServices/Game Center.app",
+    "version": "1.0"
+  },
+  "game center": {
+    "alternatives": [],
+    "bundle_id": "com.apple.gamecenter",
+    "category": "System",
+    "display_name": "Game Center",
+    "executable": "Game Center",
+    "name": "Game Center",
+    "path": "/System/Library/CoreServices/Game Center.app",
+    "version": "1.0"
+  },
+  "gamecenter": {
+    "alternatives": [],
+    "bundle_id": "com.apple.gamecenter",
+    "category": "System",
+    "display_name": "Game Center",
+    "executable": "Game Center",
+    "name": "Game Center",
+    "path": "/System/Library/CoreServices/Game Center.app",
+    "version": "1.0"
+  },
+  "garageband": {
+    "alternatives": [],
+    "bundle_id": "com.apple.garageband10",
+    "category": "Other",
+    "display_name": "GarageBand",
+    "executable": "GarageBand",
+    "name": "GarageBand",
+    "path": "/Applications/GarageBand.app",
+    "version": "10.4.12"
+  },
+  "home": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Home",
+    "category": "System",
+    "display_name": "Home",
+    "executable": "Home",
+    "name": "Home",
+    "path": "/System/Applications/Home.app",
+    "version": "9.0"
+  },
+  "icloud": {
+    "alternatives": [],
+    "bundle_id": "com.apple.CloudKit.ShareBear",
+    "category": "System",
+    "display_name": "iCloud",
+    "executable": "iCloud",
+    "name": "iCloud",
+    "path": "/System/Library/CoreServices/iCloud.app",
+    "version": "1.0"
+  },
+  "icloud+": {
+    "alternatives": [],
+    "bundle_id": "com.apple.icq",
+    "category": "System",
+    "display_name": "iCloud+",
+    "executable": "iCloud+",
+    "name": "iCloud+",
+    "path": "/System/Library/CoreServices/iCloud+.app",
+    "version": "1.0"
+  },
+  "image": {
+    "alternatives": [],
+    "bundle_id": "com.apple.imageevents",
+    "category": "System",
+    "display_name": "Image Events",
+    "executable": "Image Events",
+    "name": "Image Events",
+    "path": "/System/Library/CoreServices/Image Events.app",
+    "version": "1.1.6"
+  },
+  "image capture": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Image_Capture",
+    "category": "System",
+    "display_name": "Image Capture",
+    "executable": "Image Capture",
+    "name": "Image Capture",
+    "path": "/System/Applications/Image Capture.app",
+    "version": "8.0"
+  },
+  "image events": {
+    "alternatives": [],
+    "bundle_id": "com.apple.imageevents",
+    "category": "System",
+    "display_name": "Image Events",
+    "executable": "Image Events",
+    "name": "Image Events",
+    "path": "/System/Library/CoreServices/Image Events.app",
+    "version": "1.1.6"
+  },
+  "image playground": {
+    "alternatives": [],
+    "bundle_id": "com.apple.GenerativePlaygroundApp",
+    "category": "System",
+    "display_name": "Image Playground",
+    "executable": "Image Playground",
+    "name": "Image Playground",
+    "path": "/System/Applications/Image Playground.app",
+    "version": "1.0"
+  },
+  "imagecapture": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Image_Capture",
+    "category": "System",
+    "display_name": "Image Capture",
+    "executable": "Image Capture",
+    "name": "Image Capture",
+    "path": "/System/Applications/Image Capture.app",
+    "version": "8.0"
+  },
+  "imageevents": {
+    "alternatives": [],
+    "bundle_id": "com.apple.imageevents",
+    "category": "System",
+    "display_name": "Image Events",
+    "executable": "Image Events",
+    "name": "Image Events",
+    "path": "/System/Library/CoreServices/Image Events.app",
+    "version": "1.1.6"
+  },
+  "imageplayground": {
+    "alternatives": [],
+    "bundle_id": "com.apple.GenerativePlaygroundApp",
+    "category": "System",
+    "display_name": "Image Playground",
+    "executable": "Image Playground",
+    "name": "Image Playground",
+    "path": "/System/Applications/Image Playground.app",
+    "version": "1.0"
+  },
+  "imovie": {
+    "alternatives": [],
+    "bundle_id": "com.apple.iMovieApp",
+    "category": "Other",
+    "display_name": "iMovie",
+    "executable": "iMovie",
+    "name": "iMovie",
+    "path": "/Applications/iMovie.app",
+    "version": "10.4.3"
+  },
+  "install": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PackageUIKit.Install-in-Progress",
+    "category": "System",
+    "display_name": "Install in Progress",
+    "executable": "Install in Progress",
+    "name": "Install in Progress",
+    "path": "/System/Library/CoreServices/Install in Progress.app",
+    "version": "3.0"
+  },
+  "install command line developer tools": {
+    "alternatives": [],
+    "bundle_id": "com.apple.dt.CommandLineTools.installondemand",
+    "category": "System",
+    "display_name": "Install Command Line Developer Tools",
+    "executable": "Install Command Line Developer Tools",
+    "name": "Install Command Line Developer Tools",
+    "path": "/System/Library/CoreServices/Install Command Line Developer Tools.app",
+    "version": null
+  },
+  "install in progress": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PackageUIKit.Install-in-Progress",
+    "category": "System",
+    "display_name": "Install in Progress",
+    "executable": "Install in Progress",
+    "name": "Install in Progress",
+    "path": "/System/Library/CoreServices/Install in Progress.app",
+    "version": "3.0"
+  },
+  "installcommandlinedevelopertools": {
+    "alternatives": [],
+    "bundle_id": "com.apple.dt.CommandLineTools.installondemand",
+    "category": "System",
+    "display_name": "Install Command Line Developer Tools",
+    "executable": "Install Command Line Developer Tools",
+    "name": "Install Command Line Developer Tools",
+    "path": "/System/Library/CoreServices/Install Command Line Developer Tools.app",
+    "version": null
+  },
+  "installer": {
+    "alternatives": [],
+    "bundle_id": "com.apple.installer",
+    "category": "System",
+    "display_name": "Installer",
+    "executable": "Installer",
+    "name": "Installer",
+    "path": "/System/Library/CoreServices/Installer.app",
+    "version": "6.2.0"
+  },
+  "installer progress": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Installer-Progress",
+    "category": "System",
+    "display_name": "Installer Progress",
+    "executable": "Installer Progress",
+    "name": "Installer Progress",
+    "path": "/System/Library/CoreServices/Installer Progress.app",
+    "version": "1.0"
+  },
+  "installerprogress": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Installer-Progress",
+    "category": "System",
+    "display_name": "Installer Progress",
+    "executable": "Installer Progress",
+    "name": "Installer Progress",
+    "path": "/System/Library/CoreServices/Installer Progress.app",
+    "version": "1.0"
+  },
+  "installinprogress": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PackageUIKit.Install-in-Progress",
+    "category": "System",
+    "display_name": "Install in Progress",
+    "executable": "Install in Progress",
+    "name": "Install in Progress",
+    "path": "/System/Library/CoreServices/Install in Progress.app",
+    "version": "3.0"
+  },
+  "iouiagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.IOUIAgent",
+    "category": "System",
+    "display_name": "IOUIAgent",
+    "executable": "IOUIAgent",
+    "name": "IOUIAgent",
+    "path": "/System/Library/CoreServices/IOUIAgent.app",
+    "version": "1.0"
+  },
+  "iphone": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScreenContinuity",
+    "category": "System",
+    "display_name": "iPhone Mirroring",
+    "executable": "iPhone Mirroring",
+    "name": "iPhone Mirroring",
+    "path": "/System/Applications/iPhone Mirroring.app",
+    "version": "1.3"
+  },
+  "iphone mirroring": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScreenContinuity",
+    "category": "System",
+    "display_name": "iPhone Mirroring",
+    "executable": "iPhone Mirroring",
+    "name": "iPhone Mirroring",
+    "path": "/System/Applications/iPhone Mirroring.app",
+    "version": "1.3"
+  },
+  "iphonemirroring": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScreenContinuity",
+    "category": "System",
+    "display_name": "iPhone Mirroring",
+    "executable": "iPhone Mirroring",
+    "name": "iPhone Mirroring",
+    "path": "/System/Applications/iPhone Mirroring.app",
+    "version": "1.3"
+  },
+  "javalauncher": {
+    "alternatives": [],
+    "bundle_id": "com.apple.JavaLauncher",
+    "category": "System",
+    "display_name": "JavaLauncher",
+    "executable": "JavaLauncher",
+    "name": "JavaLauncher",
+    "path": "/System/Library/CoreServices/JavaLauncher.app",
+    "version": "325"
+  },
+  "keyboardaccessagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.KeyboardAccessAgent",
+    "category": "System",
+    "display_name": "KeyboardAccessAgent",
+    "executable": "KeyboardAccessAgent",
+    "name": "KeyboardAccessAgent",
+    "path": "/System/Library/CoreServices/KeyboardAccessAgent.app",
+    "version": "10"
+  },
+  "keyboardsetupassistant": {
+    "alternatives": [],
+    "bundle_id": "com.apple.KeyboardSetupAssistant",
+    "category": "System",
+    "display_name": "Keyboard Setup Assistant",
+    "executable": "KeyboardSetupAssistant",
+    "name": "KeyboardSetupAssistant",
+    "path": "/System/Library/CoreServices/KeyboardSetupAssistant.app",
+    "version": "1.0"
+  },
+  "keychain": {
+    "alternatives": [],
+    "bundle_id": "com.apple.security.Keychain-Circle-Notification",
+    "category": "System",
+    "display_name": "Keychain Circle Notification",
+    "executable": "Keychain Circle Notification",
+    "name": "Keychain Circle Notification",
+    "path": "/System/Library/CoreServices/Keychain Circle Notification.app",
+    "version": "1.0"
+  },
+  "keychain circle notification": {
+    "alternatives": [],
+    "bundle_id": "com.apple.security.Keychain-Circle-Notification",
+    "category": "System",
+    "display_name": "Keychain Circle Notification",
+    "executable": "Keychain Circle Notification",
+    "name": "Keychain Circle Notification",
+    "path": "/System/Library/CoreServices/Keychain Circle Notification.app",
+    "version": "1.0"
+  },
+  "keychaincirclenotification": {
+    "alternatives": [],
+    "bundle_id": "com.apple.security.Keychain-Circle-Notification",
+    "category": "System",
+    "display_name": "Keychain Circle Notification",
+    "executable": "Keychain Circle Notification",
+    "name": "Keychain Circle Notification",
+    "path": "/System/Library/CoreServices/Keychain Circle Notification.app",
+    "version": "1.0"
+  },
+  "keynote": {
+    "alternatives": [],
+    "bundle_id": "com.apple.iWork.Keynote",
+    "category": "Other",
+    "display_name": "Keynote",
+    "executable": "Keynote",
+    "name": "Keynote",
+    "path": "/Applications/Keynote.app",
+    "version": "14.4"
+  },
+  "language": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Language-Chooser",
+    "category": "System",
+    "display_name": "Language Chooser",
+    "executable": "Language Chooser",
+    "name": "Language Chooser",
+    "path": "/System/Library/CoreServices/Language Chooser.app",
+    "version": "1.0"
+  },
+  "language chooser": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Language-Chooser",
+    "category": "System",
+    "display_name": "Language Chooser",
+    "executable": "Language Chooser",
+    "name": "Language Chooser",
+    "path": "/System/Library/CoreServices/Language Chooser.app",
+    "version": "1.0"
+  },
+  "languagechooser": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Language-Chooser",
+    "category": "System",
+    "display_name": "Language Chooser",
+    "executable": "Language Chooser",
+    "name": "Language Chooser",
+    "path": "/System/Library/CoreServices/Language Chooser.app",
+    "version": "1.0"
+  },
+  "launchpad": {
+    "alternatives": [],
+    "bundle_id": "com.apple.launchpad.launcher",
+    "category": "System",
+    "display_name": "Launchpad",
+    "executable": "Launchpad",
+    "name": "Launchpad",
+    "path": "/System/Applications/Launchpad.app",
+    "version": "1.0"
+  },
+  "liquiddetectiond": {
+    "alternatives": [],
+    "bundle_id": null,
+    "category": "System",
+    "display_name": null,
+    "executable": null,
+    "name": "liquiddetectiond",
+    "path": "/System/Library/CoreServices/liquiddetectiond.app",
+    "version": null
+  },
+  "loginwindow": {
+    "alternatives": [],
+    "bundle_id": "com.apple.loginwindow",
+    "category": "System",
+    "display_name": "loginwindow",
+    "executable": "loginwindow",
+    "name": "loginwindow",
+    "path": "/System/Library/CoreServices/loginwindow.app",
+    "version": "9.0"
+  },
+  "mail": {
+    "alternatives": [],
+    "bundle_id": "com.apple.mail",
+    "category": "System",
+    "display_name": "Mail",
+    "executable": "Mail",
+    "name": "Mail",
+    "path": "/System/Applications/Mail.app",
+    "version": "16.0"
+  },
+  "managedclient": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ManagedClient",
+    "category": "System",
+    "display_name": "ManagedClient",
+    "executable": "ManagedClient",
+    "name": "ManagedClient",
+    "path": "/System/Library/CoreServices/ManagedClient.app",
+    "version": "17.1"
+  },
+  "maps": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Maps",
+    "category": "System",
+    "display_name": "Maps",
+    "executable": "Maps",
+    "name": "Maps",
+    "path": "/System/Applications/Maps.app",
+    "version": "3.0"
+  },
+  "mediamlpluginapp": {
+    "alternatives": [],
+    "bundle_id": "com.apple.MediaMLPluginApp",
+    "category": "System",
+    "display_name": "MediaMLPluginApp",
+    "executable": "MediaMLPluginApp",
+    "name": "MediaMLPluginApp",
+    "path": "/System/Library/CoreServices/MediaMLPluginApp.app",
+    "version": "1.0"
+  },
+  "memory": {
+    "alternatives": [],
+    "bundle_id": "com.apple.MemorySlotUtility",
+    "category": "System",
+    "display_name": "Memory Slot Utility",
+    "executable": "Memory Slot Utility",
+    "name": "Memory Slot Utility",
+    "path": "/System/Library/CoreServices/Memory Slot Utility.app",
+    "version": "1.5.3"
+  },
+  "memory slot utility": {
+    "alternatives": [],
+    "bundle_id": "com.apple.MemorySlotUtility",
+    "category": "System",
+    "display_name": "Memory Slot Utility",
+    "executable": "Memory Slot Utility",
+    "name": "Memory Slot Utility",
+    "path": "/System/Library/CoreServices/Memory Slot Utility.app",
+    "version": "1.5.3"
+  },
+  "memoryslotutility": {
+    "alternatives": [],
+    "bundle_id": "com.apple.MemorySlotUtility",
+    "category": "System",
+    "display_name": "Memory Slot Utility",
+    "executable": "Memory Slot Utility",
+    "name": "Memory Slot Utility",
+    "path": "/System/Library/CoreServices/Memory Slot Utility.app",
+    "version": "1.5.3"
+  },
+  "messages": {
+    "alternatives": [],
+    "bundle_id": "com.apple.MobileSMS",
+    "category": "System",
+    "display_name": "Messages",
+    "executable": "Messages",
+    "name": "Messages",
+    "path": "/System/Applications/Messages.app",
+    "version": "14.0"
+  },
+  "mission": {
+    "alternatives": [],
+    "bundle_id": "com.apple.exposelauncher",
+    "category": "System",
+    "display_name": "Mission Control",
+    "executable": "Mission Control",
+    "name": "Mission Control",
+    "path": "/System/Applications/Mission Control.app",
+    "version": "1.2"
+  },
+  "mission control": {
+    "alternatives": [],
+    "bundle_id": "com.apple.exposelauncher",
+    "category": "System",
+    "display_name": "Mission Control",
+    "executable": "Mission Control",
+    "name": "Mission Control",
+    "path": "/System/Applications/Mission Control.app",
+    "version": "1.2"
+  },
+  "missioncontrol": {
+    "alternatives": [],
+    "bundle_id": "com.apple.exposelauncher",
+    "category": "System",
+    "display_name": "Mission Control",
+    "executable": "Mission Control",
+    "name": "Mission Control",
+    "path": "/System/Applications/Mission Control.app",
+    "version": "1.2"
+  },
+  "mtlreplayer": {
+    "alternatives": [],
+    "bundle_id": "com.apple.MTLReplayer",
+    "category": "System",
+    "display_name": "MTLReplayer",
+    "executable": "MTLReplayer",
+    "name": "MTLReplayer",
+    "path": "/System/Library/CoreServices/MTLReplayer.app",
+    "version": "304.7"
+  },
+  "music": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Music",
+    "category": "System",
+    "display_name": "Music",
+    "executable": "Music",
+    "name": "Music",
+    "path": "/System/Applications/Music.app",
+    "version": "1.5.5"
+  },
+  "musicrecognitionmac": {
+    "alternatives": [],
+    "bundle_id": "com.apple.musicrecognition.mac",
+    "category": "System",
+    "display_name": "MusicRecognitionMac",
+    "executable": "MusicRecognitionMac",
+    "name": "MusicRecognitionMac",
+    "path": "/System/Library/CoreServices/MusicRecognitionMac.app",
+    "version": "1.0"
+  },
+  "netauthagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.NetAuthAgent",
+    "category": "System",
+    "display_name": "NetAuthAgent",
+    "executable": "NetAuthAgent",
+    "name": "NetAuthAgent",
+    "path": "/System/Library/CoreServices/NetAuthAgent.app",
+    "version": "6.2"
+  },
+  "news": {
+    "alternatives": [],
+    "bundle_id": "com.apple.news",
+    "category": "System",
+    "display_name": "News",
+    "executable": "News",
+    "name": "News",
+    "path": "/System/Applications/News.app",
+    "version": "10.4"
+  },
+  "notepad": {
+    "alternatives": [],
+    "bundle_id": "com.apple.TextEdit",
+    "category": "System",
+    "display_name": "TextEdit",
+    "executable": "TextEdit",
+    "name": "TextEdit",
+    "path": "/System/Applications/TextEdit.app",
+    "version": "1.20"
+  },
+  "notes": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Notes",
+    "category": "System",
+    "display_name": "Notes",
+    "executable": "Notes",
+    "name": "Notes",
+    "path": "/System/Applications/Notes.app",
+    "version": "4.12.6"
+  },
+  "notificationcenter": {
+    "alternatives": [],
+    "bundle_id": "com.apple.notificationcenterui",
+    "category": "System",
+    "display_name": "NotificationCenter",
+    "executable": "NotificationCenter",
+    "name": "NotificationCenter",
+    "path": "/System/Library/CoreServices/NotificationCenter.app",
+    "version": "1.0"
+  },
+  "nowplayingtouchui": {
+    "alternatives": [],
+    "bundle_id": "com.apple.NowPlayingTouchUI",
+    "category": "System",
+    "display_name": "NowPlayingTouchUI",
+    "executable": "NowPlayingTouchUI",
+    "name": "NowPlayingTouchUI",
+    "path": "/System/Library/CoreServices/NowPlayingTouchUI.app",
+    "version": "1.0"
+  },
+  "numbers": {
+    "alternatives": [],
+    "bundle_id": "com.apple.iWork.Numbers",
+    "category": "Other",
+    "display_name": "Numbers",
+    "executable": "Numbers",
+    "name": "Numbers",
+    "path": "/Applications/Numbers.app",
+    "version": "14.4"
+  },
+  "obexagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.OBEXAgent",
+    "category": "System",
+    "display_name": "OBEXAgent",
+    "executable": "OBEXAgent",
+    "name": "OBEXAgent",
+    "path": "/System/Library/CoreServices/OBEXAgent.app",
+    "version": "9.0"
+  },
+  "odsagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ODSAgent",
+    "category": "System",
+    "display_name": "ODSAgent",
+    "executable": "ODSAgent",
+    "name": "ODSAgent",
+    "path": "/System/Library/CoreServices/ODSAgent.app",
+    "version": "1.9"
+  },
+  "osduihelper": {
+    "alternatives": [],
+    "bundle_id": "com.apple.OSDUIHelper",
+    "category": "System",
+    "display_name": "OSDUIHelper",
+    "executable": "OSDUIHelper",
+    "name": "OSDUIHelper",
+    "path": "/System/Library/CoreServices/OSDUIHelper.app",
+    "version": "1.0"
+  },
+  "pages": {
+    "alternatives": [],
+    "bundle_id": "com.apple.iWork.Pages",
+    "category": "Other",
+    "display_name": "Pages",
+    "executable": "Pages",
+    "name": "Pages",
+    "path": "/Applications/Pages.app",
+    "version": "14.4"
+  },
+  "paired": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PairedDevices",
+    "category": "System",
+    "display_name": "Paired Devices",
+    "executable": "Paired Devices",
+    "name": "Paired Devices",
+    "path": "/System/Library/CoreServices/Paired Devices.app",
+    "version": "6.6.0"
+  },
+  "paired devices": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PairedDevices",
+    "category": "System",
+    "display_name": "Paired Devices",
+    "executable": "Paired Devices",
+    "name": "Paired Devices",
+    "path": "/System/Library/CoreServices/Paired Devices.app",
+    "version": "6.6.0"
+  },
+  "paireddevices": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PairedDevices",
+    "category": "System",
+    "display_name": "Paired Devices",
+    "executable": "Paired Devices",
+    "name": "Paired Devices",
+    "path": "/System/Library/CoreServices/Paired Devices.app",
+    "version": "6.6.0"
+  },
+  "pass": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Pass-Viewer",
+    "category": "System",
+    "display_name": "Pass Viewer",
+    "executable": "Pass Viewer",
+    "name": "Pass Viewer",
+    "path": "/System/Library/CoreServices/Pass Viewer.app",
+    "version": "1.0"
+  },
+  "pass viewer": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Pass-Viewer",
+    "category": "System",
+    "display_name": "Pass Viewer",
+    "executable": "Pass Viewer",
+    "name": "Pass Viewer",
+    "path": "/System/Library/CoreServices/Pass Viewer.app",
+    "version": "1.0"
+  },
+  "passviewer": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Pass-Viewer",
+    "category": "System",
+    "display_name": "Pass Viewer",
+    "executable": "Pass Viewer",
+    "name": "Pass Viewer",
+    "path": "/System/Library/CoreServices/Pass Viewer.app",
+    "version": "1.0"
+  },
+  "passwords": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Passwords",
+    "category": "System",
+    "display_name": "Passwords",
+    "executable": "Passwords",
+    "name": "Passwords",
+    "path": "/System/Applications/Passwords.app",
+    "version": "1.5"
+  },
+  "peoplemessageservice": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PeopleMessageService",
+    "category": "System",
+    "display_name": "Family Request",
+    "executable": "PeopleMessageService",
+    "name": "PeopleMessageService",
+    "path": "/System/Library/CoreServices/PeopleMessageService.app",
+    "version": "1.0"
+  },
+  "peopleviewservice": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PeopleViewService",
+    "category": "System",
+    "display_name": "PeopleViewService",
+    "executable": "PeopleViewService",
+    "name": "PeopleViewService",
+    "path": "/System/Library/CoreServices/PeopleViewService.app",
+    "version": "1.0"
+  },
+  "photo": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PhotoBooth",
+    "category": "System",
+    "display_name": "Photo Booth",
+    "executable": "Photo Booth",
+    "name": "Photo Booth",
+    "path": "/System/Applications/Photo Booth.app",
+    "version": "13.1"
+  },
+  "photo booth": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PhotoBooth",
+    "category": "System",
+    "display_name": "Photo Booth",
+    "executable": "Photo Booth",
+    "name": "Photo Booth",
+    "path": "/System/Applications/Photo Booth.app",
+    "version": "13.1"
+  },
+  "photobooth": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PhotoBooth",
+    "category": "System",
+    "display_name": "Photo Booth",
+    "executable": "Photo Booth",
+    "name": "Photo Booth",
+    "path": "/System/Applications/Photo Booth.app",
+    "version": "13.1"
+  },
+  "photos": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Photos",
+    "category": "System",
+    "display_name": "Photos",
+    "executable": "Photos",
+    "name": "Photos",
+    "path": "/System/Applications/Photos.app",
+    "version": "10.0"
+  },
+  "pipagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PIPAgent",
+    "category": "System",
+    "display_name": "PIPAgent",
+    "executable": "PIPAgent",
+    "name": "PIPAgent",
+    "path": "/System/Library/CoreServices/PIPAgent.app",
+    "version": "1.0"
+  },
+  "podcasts": {
+    "alternatives": [],
+    "bundle_id": "com.apple.podcasts",
+    "category": "System",
+    "display_name": "Podcasts",
+    "executable": "Podcasts",
+    "name": "Podcasts",
+    "path": "/System/Applications/Podcasts.app",
+    "version": "1.1.0"
+  },
+  "powerchime": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PowerChime",
+    "category": "System",
+    "display_name": "PowerChime",
+    "executable": "PowerChime",
+    "name": "PowerChime",
+    "path": "/System/Library/CoreServices/PowerChime.app",
+    "version": "1.0"
+  },
+  "preview": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Preview",
+    "category": "System",
+    "display_name": "Preview",
+    "executable": "Preview",
+    "name": "Preview",
+    "path": "/System/Applications/Preview.app",
+    "version": "11.0"
+  },
+  "previewshell": {
+    "alternatives": [],
+    "bundle_id": "com.apple.PreviewShell",
+    "category": "System",
+    "display_name": "Xcode Previews",
+    "executable": "PreviewShell",
+    "name": "PreviewShell",
+    "path": "/System/Library/CoreServices/PreviewShell.app",
+    "version": "16.0"
+  },
+  "pro": {
+    "alternatives": [],
+    "bundle_id": "com.apple.displaycalibrator",
+    "category": "System",
+    "display_name": "Pro Display Calibrator",
+    "executable": "Pro Display Calibrator",
+    "name": "Pro Display Calibrator",
+    "path": "/System/Library/CoreServices/Pro Display Calibrator.app",
+    "version": null
+  },
+  "pro display calibrator": {
+    "alternatives": [],
+    "bundle_id": "com.apple.displaycalibrator",
+    "category": "System",
+    "display_name": "Pro Display Calibrator",
+    "executable": "Pro Display Calibrator",
+    "name": "Pro Display Calibrator",
+    "path": "/System/Library/CoreServices/Pro Display Calibrator.app",
+    "version": null
+  },
+  "problem": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ProblemReporter",
+    "category": "System",
+    "display_name": "Problem Reporter",
+    "executable": "Problem Reporter",
+    "name": "Problem Reporter",
+    "path": "/System/Library/CoreServices/Problem Reporter.app",
+    "version": "10.13"
+  },
+  "problem reporter": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ProblemReporter",
+    "category": "System",
+    "display_name": "Problem Reporter",
+    "executable": "Problem Reporter",
+    "name": "Problem Reporter",
+    "path": "/System/Library/CoreServices/Problem Reporter.app",
+    "version": "10.13"
+  },
+  "problemreporter": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ProblemReporter",
+    "category": "System",
+    "display_name": "Problem Reporter",
+    "executable": "Problem Reporter",
+    "name": "Problem Reporter",
+    "path": "/System/Library/CoreServices/Problem Reporter.app",
+    "version": "10.13"
+  },
+  "prodisplaycalibrator": {
+    "alternatives": [],
+    "bundle_id": "com.apple.displaycalibrator",
+    "category": "System",
+    "display_name": "Pro Display Calibrator",
+    "executable": "Pro Display Calibrator",
+    "name": "Pro Display Calibrator",
+    "path": "/System/Library/CoreServices/Pro Display Calibrator.app",
+    "version": null
+  },
+  "profilehelper": {
+    "alternatives": [],
+    "bundle_id": "com.apple.mcx.ProfileHelper",
+    "category": "System",
+    "display_name": "ProfileHelper",
+    "executable": "ProfileHelper",
+    "name": "ProfileHelper",
+    "path": "/System/Library/CoreServices/ProfileHelper.app",
+    "version": "1.0"
+  },
+  "qt": {
+    "alternatives": [],
+    "bundle_id": "com.apple.QuickTimePlayerX",
+    "category": "System",
+    "display_name": "QuickTime Player",
+    "executable": "QuickTime Player",
+    "name": "QuickTime Player",
+    "path": "/System/Applications/QuickTime Player.app",
+    "version": "10.5"
+  },
+  "quicktime": {
+    "alternatives": [],
+    "bundle_id": "com.apple.QuickTimePlayerX",
+    "category": "System",
+    "display_name": "QuickTime Player",
+    "executable": "QuickTime Player",
+    "name": "QuickTime Player",
+    "path": "/System/Applications/QuickTime Player.app",
+    "version": "10.5"
+  },
+  "quicktime player": {
+    "alternatives": [],
+    "bundle_id": "com.apple.QuickTimePlayerX",
+    "category": "System",
+    "display_name": "QuickTime Player",
+    "executable": "QuickTime Player",
+    "name": "QuickTime Player",
+    "path": "/System/Applications/QuickTime Player.app",
+    "version": "10.5"
+  },
+  "quicktimeplayer": {
+    "alternatives": [],
+    "bundle_id": "com.apple.QuickTimePlayerX",
+    "category": "System",
+    "display_name": "QuickTime Player",
+    "executable": "QuickTime Player",
+    "name": "QuickTime Player",
+    "path": "/System/Applications/QuickTime Player.app",
+    "version": "10.5"
+  },
+  "rapportuiagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.RapportUIAgent",
+    "category": "System",
+    "display_name": "RapportUIAgent",
+    "executable": "RapportUIAgent",
+    "name": "RapportUIAgent",
+    "path": "/System/Library/CoreServices/RapportUIAgent.app",
+    "version": "6.6.0"
+  },
+  "rcd": {
+    "alternatives": [],
+    "bundle_id": "com.apple.rcd",
+    "category": "System",
+    "display_name": "rcd",
+    "executable": "rcd",
+    "name": "rcd",
+    "path": "/System/Library/CoreServices/rcd.app",
+    "version": "362"
+  },
+  "registerpluginimapp": {
+    "alternatives": [],
+    "bundle_id": "com.apple.pluginIM.pluginIMRegistrator",
+    "category": "System",
+    "display_name": "RegisterPluginIM",
+    "executable": "RegisterPluginIMApp",
+    "name": "RegisterPluginIMApp",
+    "path": "/System/Library/CoreServices/RegisterPluginIMApp.app",
+    "version": "26.200"
+  },
+  "reminders": {
+    "alternatives": [],
+    "bundle_id": "com.apple.reminders",
+    "category": "System",
+    "display_name": "Reminders",
+    "executable": "Reminders",
+    "name": "Reminders",
+    "path": "/System/Applications/Reminders.app",
+    "version": "7.0"
+  },
+  "rosetta": {
+    "alternatives": [],
+    "bundle_id": "com.apple.OAHSoftwareUpdateApp",
+    "category": "System",
+    "display_name": "Rosetta 2 Updater",
+    "executable": "Rosetta 2 Updater",
+    "name": "Rosetta 2 Updater",
+    "path": "/System/Library/CoreServices/Rosetta 2 Updater.app",
+    "version": "1.0"
+  },
+  "rosetta 2 updater": {
+    "alternatives": [],
+    "bundle_id": "com.apple.OAHSoftwareUpdateApp",
+    "category": "System",
+    "display_name": "Rosetta 2 Updater",
+    "executable": "Rosetta 2 Updater",
+    "name": "Rosetta 2 Updater",
+    "path": "/System/Library/CoreServices/Rosetta 2 Updater.app",
+    "version": "1.0"
+  },
+  "rosetta2updater": {
+    "alternatives": [],
+    "bundle_id": "com.apple.OAHSoftwareUpdateApp",
+    "category": "System",
+    "display_name": "Rosetta 2 Updater",
+    "executable": "Rosetta 2 Updater",
+    "name": "Rosetta 2 Updater",
+    "path": "/System/Library/CoreServices/Rosetta 2 Updater.app",
+    "version": "1.0"
+  },
+  "safari": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Safari",
+    "category": "Browsers",
+    "display_name": "Safari",
+    "executable": "Safari",
+    "name": "Safari",
+    "path": "/Applications/Safari.app",
+    "version": "18.5"
+  },
+  "screen": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScreenTimeWidgetApplication",
+    "category": "System",
+    "display_name": "Screen Time",
+    "executable": "Screen Time",
+    "name": "Screen Time",
+    "path": "/System/Library/CoreServices/Screen Time.app",
+    "version": "3.0"
+  },
+  "screen time": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScreenTimeWidgetApplication",
+    "category": "System",
+    "display_name": "Screen Time",
+    "executable": "Screen Time",
+    "name": "Screen Time",
+    "path": "/System/Library/CoreServices/Screen Time.app",
+    "version": "3.0"
+  },
+  "screencaptureui": {
+    "alternatives": [],
+    "bundle_id": "com.apple.screencaptureui",
+    "category": "System",
+    "display_name": "screencaptureui",
+    "executable": "screencaptureui",
+    "name": "screencaptureui",
+    "path": "/System/Library/CoreServices/screencaptureui.app",
+    "version": "1.0"
+  },
+  "screensaverengine": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScreenSaver.Engine",
+    "category": "System",
+    "display_name": "ScreenSaverEngine",
+    "executable": "ScreenSaverEngine",
+    "name": "ScreenSaverEngine",
+    "path": "/System/Library/CoreServices/ScreenSaverEngine.app",
+    "version": "5.0"
+  },
+  "screentime": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScreenTimeWidgetApplication",
+    "category": "System",
+    "display_name": "Screen Time",
+    "executable": "Screen Time",
+    "name": "Screen Time",
+    "path": "/System/Library/CoreServices/Screen Time.app",
+    "version": "3.0"
+  },
+  "script": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScriptMenuApp",
+    "category": "System",
+    "display_name": "Script Menu",
+    "executable": "Script Menu",
+    "name": "Script Menu",
+    "path": "/System/Library/CoreServices/Script Menu.app",
+    "version": "1"
+  },
+  "script menu": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScriptMenuApp",
+    "category": "System",
+    "display_name": "Script Menu",
+    "executable": "Script Menu",
+    "name": "Script Menu",
+    "path": "/System/Library/CoreServices/Script Menu.app",
+    "version": "1"
+  },
+  "scriptmenu": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScriptMenuApp",
+    "category": "System",
+    "display_name": "Script Menu",
+    "executable": "Script Menu",
+    "name": "Script Menu",
+    "path": "/System/Library/CoreServices/Script Menu.app",
+    "version": "1"
+  },
+  "scriptmonitor": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ScriptMonitor",
+    "category": "System",
+    "display_name": "ScriptMonitor",
+    "executable": "ScriptMonitor",
+    "name": "ScriptMonitor",
+    "path": "/System/Library/CoreServices/ScriptMonitor.app",
+    "version": "1.0.1"
+  },
+  "setup": {
+    "alternatives": [],
+    "bundle_id": "com.apple.SetupAssistant",
+    "category": "System",
+    "display_name": "Setup Assistant",
+    "executable": "Setup Assistant",
+    "name": "Setup Assistant",
+    "path": "/System/Library/CoreServices/Setup Assistant.app",
+    "version": "10.10"
+  },
+  "setup assistant": {
+    "alternatives": [],
+    "bundle_id": "com.apple.SetupAssistant",
+    "category": "System",
+    "display_name": "Setup Assistant",
+    "executable": "Setup Assistant",
+    "name": "Setup Assistant",
+    "path": "/System/Library/CoreServices/Setup Assistant.app",
+    "version": "10.10"
+  },
+  "setupassistant": {
+    "alternatives": [],
+    "bundle_id": "com.apple.SetupAssistant",
+    "category": "System",
+    "display_name": "Setup Assistant",
+    "executable": "Setup Assistant",
+    "name": "Setup Assistant",
+    "path": "/System/Library/CoreServices/Setup Assistant.app",
+    "version": "10.10"
+  },
+  "shortcutdroplet": {
+    "alternatives": [],
+    "bundle_id": "com.apple.shortcuts.droplet",
+    "category": "System",
+    "display_name": "ShortcutDroplet",
+    "executable": "ShortcutDroplet",
+    "name": "ShortcutDroplet",
+    "path": "/System/Library/CoreServices/ShortcutDroplet.app",
+    "version": "1.0"
+  },
+  "shortcuts": {
+    "alternatives": [],
+    "bundle_id": "com.apple.shortcuts.events",
+    "category": "System",
+    "display_name": "Shortcuts Events",
+    "executable": "Shortcuts Events",
+    "name": "Shortcuts Events",
+    "path": "/System/Library/CoreServices/Shortcuts Events.app",
+    "version": "1.0"
+  },
+  "shortcuts events": {
+    "alternatives": [],
+    "bundle_id": "com.apple.shortcuts.events",
+    "category": "System",
+    "display_name": "Shortcuts Events",
+    "executable": "Shortcuts Events",
+    "name": "Shortcuts Events",
+    "path": "/System/Library/CoreServices/Shortcuts Events.app",
+    "version": "1.0"
+  },
+  "shortcutsactions": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ShortcutsActions",
+    "category": "System",
+    "display_name": "ShortcutsActions",
+    "executable": "ShortcutsActions",
+    "name": "ShortcutsActions",
+    "path": "/System/Library/CoreServices/ShortcutsActions.app",
+    "version": null
+  },
+  "shortcutsevents": {
+    "alternatives": [],
+    "bundle_id": "com.apple.shortcuts.events",
+    "category": "System",
+    "display_name": "Shortcuts Events",
+    "executable": "Shortcuts Events",
+    "name": "Shortcuts Events",
+    "path": "/System/Library/CoreServices/Shortcuts Events.app",
+    "version": "1.0"
+  },
+  "siri": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Siri",
+    "category": "System",
+    "display_name": "Siri",
+    "executable": "Siri",
+    "name": "Siri",
+    "path": "/System/Library/CoreServices/Siri.app",
+    "version": "3405.23.2.14.1"
+  },
+  "software": {
+    "alternatives": [],
+    "bundle_id": "com.apple.SoftwareUpdate",
+    "category": "System",
+    "display_name": "Software Update",
+    "executable": "Software Update",
+    "name": "Software Update",
+    "path": "/System/Library/CoreServices/Software Update.app",
+    "version": "6"
+  },
+  "software update": {
+    "alternatives": [],
+    "bundle_id": "com.apple.SoftwareUpdate",
+    "category": "System",
+    "display_name": "Software Update",
+    "executable": "Software Update",
+    "name": "Software Update",
+    "path": "/System/Library/CoreServices/Software Update.app",
+    "version": "6"
+  },
+  "softwareupdate": {
+    "alternatives": [],
+    "bundle_id": "com.apple.SoftwareUpdate",
+    "category": "System",
+    "display_name": "Software Update",
+    "executable": "Software Update",
+    "name": "Software Update",
+    "path": "/System/Library/CoreServices/Software Update.app",
+    "version": "6"
+  },
+  "spacestouchbaragent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.SpacesTouchBarAgent",
+    "category": "System",
+    "display_name": "SpacesTouchBarAgent",
+    "executable": "SpacesTouchBarAgent",
+    "name": "SpacesTouchBarAgent",
+    "path": "/System/Library/CoreServices/SpacesTouchBarAgent.app",
+    "version": "1.0"
+  },
+  "spotlight": {
+    "alternatives": [
+      "spotlight"
+    ],
+    "bundle_id": null,
+    "category": "System",
+    "display_name": "Spotlight",
+    "executable": null,
+    "name": "Spotlight",
+    "path": "/System/Library/CoreServices/Search.bundle",
+    "version": null
+  },
+  "stagemanageronboarding": {
+    "alternatives": [],
+    "bundle_id": "com.apple.windowmanager.StageManagerOnboarding",
+    "category": "System",
+    "display_name": "StageManagerOnboarding",
+    "executable": "StageManagerOnboarding",
+    "name": "StageManagerOnboarding",
+    "path": "/System/Library/CoreServices/StageManagerOnboarding.app",
+    "version": "1.0"
+  },
+  "stickies": {
+    "alternatives": [],
+    "bundle_id": "com.apple.Stickies",
+    "category": "System",
+    "display_name": "Stickies",
+    "executable": "Stickies",
+    "name": "Stickies",
+    "path": "/System/Applications/Stickies.app",
+    "version": "10.3"
+  },
+  "stocks": {
+    "alternatives": [],
+    "bundle_id": "com.apple.stocks",
+    "category": "System",
+    "display_name": "Stocks",
+    "executable": "Stocks",
+    "name": "Stocks",
+    "path": "/System/Applications/Stocks.app",
+    "version": "7.3"
+  },
+  "system": {
+    "alternatives": [],
+    "bundle_id": "com.apple.systemevents",
+    "category": "System",
+    "display_name": "System Events",
+    "executable": "System Events",
+    "name": "System Events",
+    "path": "/System/Library/CoreServices/System Events.app",
+    "version": "1.3.6"
+  },
+  "system events": {
+    "alternatives": [],
+    "bundle_id": "com.apple.systemevents",
+    "category": "System",
+    "display_name": "System Events",
+    "executable": "System Events",
+    "name": "System Events",
+    "path": "/System/Library/CoreServices/System Events.app",
+    "version": "1.3.6"
+  },
+  "system settings": {
+    "alternatives": [],
+    "bundle_id": "com.apple.systempreferences",
+    "category": "System",
+    "display_name": "System Settings",
+    "executable": "System Settings",
+    "name": "System Settings",
+    "path": "/System/Applications/System Settings.app",
+    "version": "15.0"
+  },
+  "systemevents": {
+    "alternatives": [],
+    "bundle_id": "com.apple.systemevents",
+    "category": "System",
+    "display_name": "System Events",
+    "executable": "System Events",
+    "name": "System Events",
+    "path": "/System/Library/CoreServices/System Events.app",
+    "version": "1.3.6"
+  },
+  "systemsettings": {
+    "alternatives": [],
+    "bundle_id": "com.apple.systempreferences",
+    "category": "System",
+    "display_name": "System Settings",
+    "executable": "System Settings",
+    "name": "System Settings",
+    "path": "/System/Applications/System Settings.app",
+    "version": "15.0"
+  },
+  "systemuiserver": {
+    "alternatives": [],
+    "bundle_id": "com.apple.systemuiserver",
+    "category": "System",
+    "display_name": "SystemUIServer",
+    "executable": "SystemUIServer",
+    "name": "SystemUIServer",
+    "path": "/System/Library/CoreServices/SystemUIServer.app",
+    "version": "1.7"
+  },
+  "text edit": {
+    "alternatives": [],
+    "bundle_id": "com.apple.TextEdit",
+    "category": "System",
+    "display_name": "TextEdit",
+    "executable": "TextEdit",
+    "name": "TextEdit",
+    "path": "/System/Applications/TextEdit.app",
+    "version": "1.20"
+  },
+  "textedit": {
+    "alternatives": [],
+    "bundle_id": "com.apple.TextEdit",
+    "category": "System",
+    "display_name": "TextEdit",
+    "executable": "TextEdit",
+    "name": "TextEdit",
+    "path": "/System/Applications/TextEdit.app",
+    "version": "1.20"
+  },
+  "textinputmenuagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.TextInputMenuAgent",
+    "category": "System",
+    "display_name": "TextInputMenuAgent",
+    "executable": "TextInputMenuAgent",
+    "name": "TextInputMenuAgent",
+    "path": "/System/Library/CoreServices/TextInputMenuAgent.app",
+    "version": "1.0"
+  },
+  "textinputswitcher": {
+    "alternatives": [],
+    "bundle_id": "com.apple.TextInputSwitcher",
+    "category": "System",
+    "display_name": "TextInputSwitcher",
+    "executable": "TextInputSwitcher",
+    "name": "TextInputSwitcher",
+    "path": "/System/Library/CoreServices/TextInputSwitcher.app",
+    "version": "1.1"
+  },
+  "thermaltrap": {
+    "alternatives": [],
+    "bundle_id": "com.apple.ThermalTrap",
+    "category": "System",
+    "display_name": "ThermalTrap",
+    "executable": "ThermalTrap",
+    "name": "ThermalTrap",
+    "path": "/System/Library/CoreServices/ThermalTrap.app",
+    "version": "1.0"
+  },
+  "time": {
+    "alternatives": [],
+    "bundle_id": "com.apple.backup.launcher",
+    "category": "System",
+    "display_name": "Time Machine",
+    "executable": "Time Machine",
+    "name": "Time Machine",
+    "path": "/System/Applications/Time Machine.app",
+    "version": "1.3"
+  },
+  "time machine": {
+    "alternatives": [],
+    "bundle_id": "com.apple.backup.launcher",
+    "category": "System",
+    "display_name": "Time Machine",
+    "executable": "Time Machine",
+    "name": "Time Machine",
+    "path": "/System/Applications/Time Machine.app",
+    "version": "1.3"
+  },
+  "timemachine": {
+    "alternatives": [],
+    "bundle_id": "com.apple.backup.launcher",
+    "category": "System",
+    "display_name": "Time Machine",
+    "executable": "Time Machine",
+    "name": "Time Machine",
+    "path": "/System/Applications/Time Machine.app",
+    "version": "1.3"
+  },
+  "tips": {
+    "alternatives": [],
+    "bundle_id": "com.apple.helpviewer",
+    "category": "System",
+    "display_name": "Tips",
+    "executable": "Tips",
+    "name": "Tips",
+    "path": "/System/Applications/Tips.app",
+    "version": "15.5"
+  },
+  "tipsspotlighthandler": {
+    "alternatives": [],
+    "bundle_id": "com.apple.tips",
+    "category": "System",
+    "display_name": "TipsSpotlightHandler",
+    "executable": "TipsSpotlightHandler",
+    "name": "TipsSpotlightHandler",
+    "path": "/System/Library/CoreServices/TipsSpotlightHandler.app",
+    "version": "1.0"
+  },
+  "tv": {
+    "alternatives": [],
+    "bundle_id": "com.apple.TV",
+    "category": "System",
+    "display_name": "TV",
+    "executable": "TV",
+    "name": "TV",
+    "path": "/System/Applications/TV.app",
+    "version": "1.5.5"
+  },
+  "uikitsystem": {
+    "alternatives": [],
+    "bundle_id": "com.apple.UIKitSystemApp",
+    "category": "System",
+    "display_name": "UIKitSystem",
+    "executable": "UIKitSystem",
+    "name": "UIKitSystem",
+    "path": "/System/Library/CoreServices/UIKitSystem.app",
+    "version": "1.0"
+  },
+  "universalaccesscontrol": {
+    "alternatives": [],
+    "bundle_id": "com.apple.UniversalAccessControl",
+    "category": "System",
+    "display_name": "UniversalAccessControl",
+    "executable": "UniversalAccessControl",
+    "name": "UniversalAccessControl",
+    "path": "/System/Library/CoreServices/UniversalAccessControl.app",
+    "version": "7.0"
+  },
+  "universalcontrol": {
+    "alternatives": [],
+    "bundle_id": "com.apple.universalcontrol",
+    "category": "System",
+    "display_name": "UniversalControl",
+    "executable": "UniversalControl",
+    "name": "UniversalControl",
+    "path": "/System/Library/CoreServices/UniversalControl.app",
+    "version": "1.0"
+  },
+  "unmountassistantagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.UnmountAssistantAgent",
+    "category": "System",
+    "display_name": "UnmountAssistantAgent",
+    "executable": "UnmountAssistantAgent",
+    "name": "UnmountAssistantAgent",
+    "path": "/System/Library/CoreServices/UnmountAssistantAgent.app",
+    "version": "5.0"
+  },
+  "usernotificationcenter": {
+    "alternatives": [],
+    "bundle_id": "com.apple.UserNotificationCenter",
+    "category": "System",
+    "display_name": null,
+    "executable": "UserNotificationCenter",
+    "name": "UserNotificationCenter",
+    "path": "/System/Library/CoreServices/UserNotificationCenter.app",
+    "version": "82"
+  },
+  "visual": {
+    "alternatives": [],
+    "bundle_id": "com.microsoft.VSCode",
+    "category": "Development",
+    "display_name": "Code",
+    "executable": "Electron",
+    "name": "Visual Studio Code",
+    "path": "/Applications/Visual Studio Code.app",
+    "version": "1.103.2"
+  },
+  "visual studio code": {
+    "alternatives": [],
+    "bundle_id": "com.microsoft.VSCode",
+    "category": "Development",
+    "display_name": "Code",
+    "executable": "Electron",
+    "name": "Visual Studio Code",
+    "path": "/Applications/Visual Studio Code.app",
+    "version": "1.103.2"
+  },
+  "visualstudiocode": {
+    "alternatives": [],
+    "bundle_id": "com.microsoft.VSCode",
+    "category": "Development",
+    "display_name": "Code",
+    "executable": "Electron",
+    "name": "Visual Studio Code",
+    "path": "/Applications/Visual Studio Code.app",
+    "version": "1.103.2"
+  },
+  "voicememos": {
+    "alternatives": [],
+    "bundle_id": "com.apple.VoiceMemos",
+    "category": "System",
+    "display_name": "VoiceMemos",
+    "executable": "VoiceMemos",
+    "name": "VoiceMemos",
+    "path": "/System/Applications/VoiceMemos.app",
+    "version": "3.1"
+  },
+  "voiceover": {
+    "alternatives": [],
+    "bundle_id": "com.apple.VoiceOver",
+    "category": "System",
+    "display_name": "VoiceOver",
+    "executable": "VoiceOverStarter",
+    "name": "VoiceOver",
+    "path": "/System/Library/CoreServices/VoiceOver.app",
+    "version": "10"
+  },
+  "vs code": {
+    "alternatives": [],
+    "bundle_id": "com.microsoft.VSCode",
+    "category": "Development",
+    "display_name": "Code",
+    "executable": "Electron",
+    "name": "Visual Studio Code",
+    "path": "/Applications/Visual Studio Code.app",
+    "version": "1.103.2"
+  },
+  "vscode": {
+    "alternatives": [],
+    "bundle_id": "com.microsoft.VSCode",
+    "category": "Development",
+    "display_name": "Code",
+    "executable": "Electron",
+    "name": "Visual Studio Code",
+    "path": "/Applications/Visual Studio Code.app",
+    "version": "1.103.2"
+  },
+  "wallpaperagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.wallpaper.agent",
+    "category": "System",
+    "display_name": "WallpaperAgent",
+    "executable": "WallpaperAgent",
+    "name": "WallpaperAgent",
+    "path": "/System/Library/CoreServices/WallpaperAgent.app",
+    "version": "1.0"
+  },
+  "watchfacealert": {
+    "alternatives": [],
+    "bundle_id": "com.apple.WatchFaceAlert",
+    "category": "System",
+    "display_name": "WatchFaceAlert",
+    "executable": "WatchFaceAlert",
+    "name": "WatchFaceAlert",
+    "path": "/System/Library/CoreServices/WatchFaceAlert.app",
+    "version": "1.0"
+  },
+  "weather": {
+    "alternatives": [],
+    "bundle_id": "com.apple.weather",
+    "category": "System",
+    "display_name": "Weather",
+    "executable": "Weather",
+    "name": "Weather",
+    "path": "/System/Applications/Weather.app",
+    "version": "5.1"
+  },
+  "whatsapp": {
+    "alternatives": [],
+    "bundle_id": "net.whatsapp.WhatsApp",
+    "category": "Communication",
+    "display_name": "\u200eWhatsApp",
+    "executable": "WhatsApp",
+    "name": "WhatsApp",
+    "path": "/Applications/WhatsApp.app",
+    "version": "25.22.79"
+  },
+  "whatsapp messenger": {
+    "alternatives": [],
+    "bundle_id": "net.whatsapp.WhatsApp",
+    "category": "Communication",
+    "display_name": "\u200eWhatsApp",
+    "executable": "WhatsApp",
+    "name": "WhatsApp",
+    "path": "/Applications/WhatsApp.app",
+    "version": "25.22.79"
+  },
+  "widgetkit": {
+    "alternatives": [],
+    "bundle_id": "com.apple.widgetkit.simulator",
+    "category": "System",
+    "display_name": "WidgetKit Simulator",
+    "executable": "WidgetKit Simulator",
+    "name": "WidgetKit Simulator",
+    "path": "/System/Library/CoreServices/WidgetKit Simulator.app",
+    "version": "1.0"
+  },
+  "widgetkit simulator": {
+    "alternatives": [],
+    "bundle_id": "com.apple.widgetkit.simulator",
+    "category": "System",
+    "display_name": "WidgetKit Simulator",
+    "executable": "WidgetKit Simulator",
+    "name": "WidgetKit Simulator",
+    "path": "/System/Library/CoreServices/WidgetKit Simulator.app",
+    "version": "1.0"
+  },
+  "widgetkitsimulator": {
+    "alternatives": [],
+    "bundle_id": "com.apple.widgetkit.simulator",
+    "category": "System",
+    "display_name": "WidgetKit Simulator",
+    "executable": "WidgetKit Simulator",
+    "name": "WidgetKit Simulator",
+    "path": "/System/Library/CoreServices/WidgetKit Simulator.app",
+    "version": "1.0"
+  },
+  "wifiagent": {
+    "alternatives": [],
+    "bundle_id": "com.apple.wifi.WiFiAgent",
+    "category": "System",
+    "display_name": "WiFiAgent",
+    "executable": "WiFiAgent",
+    "name": "WiFiAgent",
+    "path": "/System/Library/CoreServices/WiFiAgent.app",
+    "version": "17.0"
+  },
+  "windowmanager": {
+    "alternatives": [],
+    "bundle_id": "com.apple.WindowManager",
+    "category": "System",
+    "display_name": "WindowManager",
+    "executable": "WindowManager",
+    "name": "WindowManager",
+    "path": "/System/Library/CoreServices/WindowManager.app",
+    "version": null
+  },
+  "windowmanagershowdesktopeducation": {
+    "alternatives": [],
+    "bundle_id": "com.apple.windowmanager.ShowDesktopEducation",
+    "category": "System",
+    "display_name": "WindowManagerShowDesktopEducation",
+    "executable": "WindowManagerShowDesktopEducation",
+    "name": "WindowManagerShowDesktopEducation",
+    "path": "/System/Library/CoreServices/WindowManagerShowDesktopEducation.app",
+    "version": "1.0"
+  },
+  "workoutalert-mac": {
+    "alternatives": [],
+    "bundle_id": "com.apple.WorkoutAlert-Mac",
+    "category": "System",
+    "display_name": "WorkoutAlert-Mac",
+    "executable": "WorkoutAlert-Mac",
+    "name": "WorkoutAlert-Mac",
+    "path": "/System/Library/CoreServices/WorkoutAlert-Mac.app",
+    "version": "1.0"
+  }
+}
